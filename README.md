@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Programer from India</h3>
 
 - 🌱 I’m currently learning **Full Stack web development & C Programming**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-abhishek1966.vercel.app/](https://my-portfolio-abhishek1966.vercel.app/)
 
-- 💬 Ask me about **Web Development & C Programming**
+- 💬 Ask me about **Web Development | Python | C Programming | C++**
 
 - 📫 How to reach me **abhis42124@gmail.com**
 
