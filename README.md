@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate Programmer</h3>
 
-- 🌱 I’m currently learning **C++ with DSA & Object Oriented programming**
+- 🌱 I’m currently learning **Java with DSA & Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-abhishek1966.vercel.app/](https://my-portfolio-abhishek1966.vercel.app/)
 
