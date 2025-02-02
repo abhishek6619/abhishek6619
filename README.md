@@ -12,8 +12,8 @@
 
 - 💬 Ask me about **Web Development | Python | C Programming | C++ | OOP**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abhishek-kumar-singh-a7722a276/](https://www.linkedin.com/in/abhishek-kumar-singh-a7722a276/)
-<br>
+- 📄 Know about my experiences [https://www.linkedin.com/in/abhishekkumarsingh01](https://www.linkedin.com/in/abhishekkumarsingh01)
+  <br>
 
 <!--Line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -55,14 +55,12 @@
 <br>
 <div align="center">
 
-
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <!--stats End-->
 
 <!--Languages & tools-->
 <h2 align="center"><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages, Tools and Technologies </h2>
-
 
 <table align="center">
 	<tr>
