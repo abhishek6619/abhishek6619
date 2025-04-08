@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-abhishek1966.vercel.app/](https://my-portfolio-abhishek1966.vercel.app/)
 
-- 💬 Ask me about **Web Development | Python | C Programming | C++ | OOP**
+- 💬 Ask me about **Cyber Security | Web Development | Python | C Programming | C++ | OOP | Java | DSA**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/abhishekkumarsingh01](https://www.linkedin.com/in/abhishekkumarsingh01)
   <br>
