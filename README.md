@@ -75,7 +75,7 @@
 
 <tr>
 	<td><strong>Backend Development</strong></td>
-	<td><img height=40 src = "https://skillicons.dev/icons?i=nodejs,typescript,php,mysql,postgresql" ></td>
+	<td><img height=40 src = "https://skillicons.dev/icons?i=react,nodejs,typescript,php,mysql,postgresql" ></td>
 </tr>
 
 <tr>
